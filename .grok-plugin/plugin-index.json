@@ -90,13 +90,13 @@
       }
     },
     "bruin": {
-      "sha": "8e1435ec45a9d1f1df8a89104b01112db0feaca2",
-      "version": "1.0.0",
+      "sha": "311bac60c8fc9d3a158dbce866c653c0823c97a7",
+      "version": "1.1.0",
       "components": {
         "skills": [
           {
             "name": "bruin-api-integration",
-            "description": "Help a client build, debug, or extend an integration with the Bruin Public API — MetTel's REST API for tickets, invento…"
+            "description": "Help a client build, debug, or extend an integration with the Bruin Public API, MetTel's REST API for tickets, inventor…"
           }
         ]
       }
@@ -632,7 +632,7 @@
       }
     },
     "pstack": {
-      "sha": "c1c0a32802223f4be824112dd83d33ad29a8b26c",
+      "sha": "e31650eea443aaea1e84cc15d88c13f40080b275",
       "components": {
         "agents": [
           {
@@ -919,8 +919,8 @@
       }
     },
     "stripe": {
-      "sha": "38d8933bffbdba219ba530803316bb3a4fbaee0d",
-      "version": "0.7.1",
+      "sha": "da4991b0a0b9299d423ae2d5856e6d7e2b31b031",
+      "version": "0.7.2",
       "components": {
         "agents": [
           {
@@ -1360,8 +1360,8 @@
       }
     },
     "wix": {
-      "sha": "58922ec060ee898e1b5767a30aad874981b53474",
-      "version": "1.19.0",
+      "sha": "0bb9e628fae4f2999006cb239bb306b2b7fe8308",
+      "version": "1.19.1",
       "components": {
         "mcpServers": [
           {
