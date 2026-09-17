@@ -102,7 +102,7 @@
       }
     },
     "bulktranscripts": {
-      "sha": "308829b895686d90741e5b15315c126f1bb9ba54",
+      "sha": "5e0055bf0b2f4ae166a8e12a4ad01521d6ae2ae1",
       "version": "1.1.0",
       "components": {
         "mcpServers": [
