@@ -377,7 +377,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/pratie/bulktranscripts-mcp.git",
-        "sha": "5e0055bf0b2f4ae166a8e12a4ad01521d6ae2ae1"
+        "sha": "fa003646a7a1d6a1b1f855e8a0ebfae3578fe3e8"
       },
       "homepage": "https://bulktranscripts.co/youtube-mcp-server",
       "keywords": ["bulktranscripts", "bulk transcripts", "bulktranscripts youtube"],

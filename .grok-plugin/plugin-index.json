@@ -102,7 +102,7 @@
       }
     },
     "bulktranscripts": {
-      "sha": "5e0055bf0b2f4ae166a8e12a4ad01521d6ae2ae1",
+      "sha": "fa003646a7a1d6a1b1f855e8a0ebfae3578fe3e8",
       "version": "1.1.0",
       "components": {
         "mcpServers": [
@@ -114,7 +114,7 @@
         "skills": [
           {
             "name": "youtube-transcripts",
-            "description": "Fetch YouTube video transcripts, search YouTube, list channel or playlist videos, and track new uploads via the BulkTra…"
+            "description": "Fetch YouTube video transcripts, search YouTube, list channel or playlist videos, run a background bulk job for a whole…"
           }
         ]
       }
